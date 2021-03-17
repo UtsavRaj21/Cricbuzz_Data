@@ -1,0 +1,95 @@
+[
+    {
+        "topicUrl": "https://github.com/topics/ruby",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/rails/rails",
+                "issues": [
+                    {
+                        "heading": "ActiveModel tests fail with BCrypt::Errors::InvalidHash: invalid hash",
+                        "url": "https://github.com/rails/rails/issues/41674"
+                    },
+                    {
+                        "heading": "Multiple attachment files are not persisted to storage service when attached separately within a transaction",
+                        "url": "https://github.com/rails/rails/issues/41661"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/jekyll/jekyll",
+                "issues": [
+                    {
+                        "heading": "docs: update markdown options to kramdown 2",
+                        "url": "https://github.com/jekyll/jekyll/issues/8593"
+                    },
+                    {
+                        "heading": "Creating text boxes with leader arrows in jekyll markdown",
+                        "url": "https://github.com/jekyll/jekyll/issues/8589"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/phaser",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/photonstorm/phaser",
+                "issues": [
+                    {
+                        "heading": "Text in group to renderTextre snapshotArea got text stroke",
+                        "url": "https://github.com/photonstorm/phaser/issues/5600"
+                    },
+                    {
+                        "heading": "[3.53.1] Duplicate Objects when added to spineContainer",
+                        "url": "https://github.com/photonstorm/phaser/issues/5599"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/nicholas-ochoa/OpenSC2K",
+                "issues": [
+                    {
+                        "heading": "`npm i` no working from mac",
+                        "url": "https://github.com/nicholas-ochoa/OpenSC2K/issues/56"
+                    },
+                    {
+                        "heading": "This doesn't work anymore",
+                        "url": "https://github.com/nicholas-ochoa/OpenSC2K/issues/55"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicUrl": "https://github.com/topics/mvvmcross",
+        "projects": [
+            {
+                "projectUrl": "https://github.com/MvvmCross/MvvmCross",
+                "issues": [
+                    {
+                        "heading": "Mvx.IoCProvider.Resolve can't resolve type when internet is on",
+                        "url": "https://github.com/MvvmCross/MvvmCross/issues/4124"
+                    },
+                    {
+                        "heading": "Android - PopBackStackImmediateName doesn't appear to be properly used in the BackStack",
+                        "url": "https://github.com/MvvmCross/MvvmCross/issues/4107"
+                    }
+                ]
+            },
+            {
+                "projectUrl": "https://github.com/MvvmCross/MvvmCross-Samples",
+                "issues": [
+                    {
+                        "heading": "StarWarsSample app freeze when Exception is thrown in MainPage constructor",
+                        "url": "https://github.com/MvvmCross/MvvmCross-Samples/issues/151"
+                    },
+                    {
+                        "heading": "please add example for canExecute",
+                        "url": "https://github.com/MvvmCross/MvvmCross-Samples/issues/150"
+                    }
+                ]
+            }
+        ]
+    }
+]
